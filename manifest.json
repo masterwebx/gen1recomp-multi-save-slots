@@ -1,0 +1,15 @@
+{
+  "id": "MULTI_SAVE_SLOTS",
+  "name": "Multiple Save Slots",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.1.0 <2.0.0",
+  "priority": 40,
+  "author": "masterwebx",
+  "dependencies": [],
+  "permissions": [],
+  "description": "CONTINUE and SAVE pick a slot. NEW SAVE writes immediately. Delete removes the slot."
+}
