@@ -11,5 +11,6 @@
   "author": "masterwebx",
   "dependencies": [],
   "permissions": [],
+  "github": "masterwebx/gen1recomp-multi-save-slots",
   "description": "CONTINUE and SAVE pick a slot. NEW SAVE writes immediately. Delete removes the slot."
 }

@@ -1,14 +1,14 @@
 # Multiple Save Slots
 
-Title **CONTINUE** and in-game **SAVE** open a slot picker.
+Title **CONTINUE** and in-game **SAVE** open a slot list.
 
-- Only slots that have a save are listed
-- **NEW SAVE** creates a slot and writes into it immediately
-- **MANAGE** deletes a slot (files + registry); list refreshes
+- Only slots that already have a save are listed (no empty placeholders)
+- **NEW SAVE** creates a slot, makes it active, and writes immediately
+- **MANAGE** deletes a slot from disk and the registry
 
 ## Install
 
-Drop into `mods/` and enable. No dependencies.
+Enable in the mod manager. No dependencies.
 
 ## License
 
